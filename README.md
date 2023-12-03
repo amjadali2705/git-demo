@@ -1,4 +1,4 @@
 # git-demo
 This is my first git repo
 <br>
-Author - Amjad Ali
+Author - Md Amjad Ali
